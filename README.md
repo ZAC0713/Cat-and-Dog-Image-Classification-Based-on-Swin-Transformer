@@ -1,1 +1,1 @@
-# Cat-and-Dog-Image-Classification-Based-on-Swin-Transformer
+* Please go to brach **master** to read the project
